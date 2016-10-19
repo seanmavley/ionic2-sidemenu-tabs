@@ -1,6 +1,6 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
+  "name": "ionic2-sidemenu-tabs",
+  "author": "Khophi's Dev",
   "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
@@ -33,7 +33,7 @@
     "@ionic/app-scripts": "^0.0.36",
     "typescript": "^2.0.3"
   },
-  "description": "newOne: An Ionic project",
+  "description": "Ionic 2 SideMenu Tabs An Ionic project",
   "cordovaPlugins": [
     "cordova-plugin-device",
     "cordova-plugin-console",
